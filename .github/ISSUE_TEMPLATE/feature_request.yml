@@ -1,0 +1,28 @@
+name: Funktionswunsch
+description: Verbesserung für CVE-Lagebericht vorschlagen
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: Bitte keine vertraulichen Kunden-, Tenant- oder Infrastrukturdaten einfügen.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Ausgangsproblem
+      description: Welches Problem soll gelöst werden?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Gewünschte Lösung
+      description: Beschreibe den erwarteten Nutzen und Ablauf.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativen
+      description: Welche anderen Lösungen wurden erwogen?
