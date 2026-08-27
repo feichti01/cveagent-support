@@ -1,10 +1,10 @@
-# CVE-Lagebericht Support
+# Lagebericht Support
 
-Öffentliches Support- und Fehlertracking für die macOS-App **CVE-Lagebericht**.
+Öffentliches Support- und Fehlertracking für die macOS-App **Lagebericht**.
 
 ## Fehler melden
 
-Bitte verwende das strukturierte [Bugformular](https://github.com/feichti01/cve-lagebericht-support/issues/new?template=bug_report.yml).
+Bitte verwende das strukturierte [Bugformular](https://github.com/feichti01/cveagent-support/issues/new?template=bug_report.yml).
 
 Vor dem Absenden:
 
@@ -15,7 +15,7 @@ Vor dem Absenden:
 
 ## Funktionswunsch
 
-Neue Ideen können über das [Feature-Formular](https://github.com/feichti01/cve-lagebericht-support/issues/new?template=feature_request.yml) vorgeschlagen werden.
+Neue Ideen können über das [Feature-Formular](https://github.com/feichti01/cveagent-support/issues/new?template=feature_request.yml) vorgeschlagen werden.
 
 ## Sicherheitslücken
 

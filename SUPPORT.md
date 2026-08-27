@@ -1,6 +1,6 @@
 # Support
 
-Das Issue-Tracking ist für reproduzierbare Fehler und konkrete Funktionswünsche der App CVE-Lagebericht vorgesehen.
+Das Issue-Tracking ist für reproduzierbare Fehler und konkrete Funktionswünsche der App Lagebericht vorgesehen.
 
 Bitte veröffentliche niemals:
 

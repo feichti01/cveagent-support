@@ -1,5 +1,5 @@
 name: Fehler melden
-description: Reproduzierbaren Fehler in CVE-Lagebericht melden
+description: Reproduzierbaren Fehler in Lagebericht melden
 title: "[Bug]: "
 labels:
   - bug

@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Sicherheitslücke vertraulich melden
-    url: https://github.com/feichti01/cve-lagebericht-support/security
+    url: https://github.com/feichti01/cveagent-support/security
     about: Keine Sicherheitsdetails oder Geheimnisse in öffentlichen Issues veröffentlichen.
