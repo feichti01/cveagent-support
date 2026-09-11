@@ -1,6 +1,9 @@
 # Support
 
-Das Issue-Tracking ist für reproduzierbare Fehler und konkrete Funktionswünsche der App Lagebericht vorgesehen.
+Das Issue-Tracking ist für reproduzierbare Fehler und konkrete Funktionswünsche
+der App CVE Agent vorgesehen. Allgemeine Hilfe, Datenschutzinformationen und
+Fehlerbehebung stehen auf der
+[öffentlichen Supportseite](https://feichti01.github.io/support/cveagent/).
 
 Bitte veröffentliche niemals:
 

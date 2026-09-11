@@ -1,6 +1,10 @@
-# Lagebericht Support
+# CVE Agent Support
 
-Öffentliches Support- und Fehlertracking für die macOS-App **Lagebericht**.
+Öffentliches Support- und Fehlertracking für die macOS-App **CVE Agent**.
+
+- Supportseite: https://feichti01.github.io/support/cveagent/
+- Datenschutzerklärung: https://feichti01.github.io/support/cveagent/privacy.html
+- Fehlerbehebung: https://feichti01.github.io/support/cveagent/troubleshooting.html
 
 ## Fehler melden
 

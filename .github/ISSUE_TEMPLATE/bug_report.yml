@@ -1,5 +1,5 @@
 name: Fehler melden
-description: Reproduzierbaren Fehler in Lagebericht melden
+description: Reproduzierbaren Fehler in CVE Agent melden
 title: "[Bug]: "
 labels:
   - bug
@@ -12,8 +12,8 @@ body:
     id: app-version
     attributes:
       label: App-Version und Build
-      description: Diese Angaben stehen links oben im Lageberichtfenster.
-      placeholder: "1.15.0 (Build 17)"
+      description: Diese Angaben stehen links oben im CVE-Agent-Fenster.
+      placeholder: "1.15.1 (Build 18)"
     validations:
       required: true
   - type: input
@@ -28,7 +28,7 @@ body:
     attributes:
       label: Betroffener Bereich
       options:
-        - Lageberichtfenster
+        - Berichtsfenster
         - Menüleisten-App
         - Hintergrundprüfung
         - Installation oder Update
